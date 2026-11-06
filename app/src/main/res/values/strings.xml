@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Flyme Shadow</string>
+    <string name="module_desc">Flyme Shadow — 隐私与桌面隐藏管理工具。</string>
+    <string name="unlock_label">解锁桌面</string>
+</resources>
